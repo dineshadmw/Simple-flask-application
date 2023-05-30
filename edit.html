@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Edit</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="navbar-brand" href="/">Home Page</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="container mt-5">
+      <h1>Edit Player</h1>
+      <form method="post" action="/edit/{{ player_id }}">
+        <div class="form-group">
+          <label for="player_name">Name</label>
+          <input
+            type="text"
+            class="form-control"
+            id="player_name"
+            name="player_name"
+            value="{{ player['player_name'] }}"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <label for="country">Country</label>
+          <input
+            type="text"
+            class="form-control"
+            id="country"
+            name="country"
+            value="{{ player['country'] }}"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <label for="runs">Runs</label>
+          <input
+            type="number"
+            class="form-control"
+            id="runs"
+            name="runs"
+            value="{{ player['runs'] }}"
+            required
+          />
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg btn-3d">
+          Update
+        </button>
+      </form>
+    </div>
+  </body>
+</html>
