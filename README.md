@@ -4,19 +4,19 @@ This is an interactive web application created using Python Flask. Initially thi
 
 ## File Structure
 This application includes following files.
-•	Index.html – home page
-•	create.html – add new player page
-•	show.html – individual player details page
-•	edit.html - edit existing players’ details page
-•	myapp.py – python file 
-•	players.csv
-•	players.ipynb – Jupyter notebook file which used to write players.csv file
+-	Index.html – home page
+-	create.html – add new player page
+-	show.html – individual player details page
+-	edit.html - edit existing players’ details page
+-	myapp.py – python file 
+-	players.csv
+-	players.ipynb – Jupyter notebook file which used to write players.csv file
 
 ## Tech Stack
-•	Python
-•	HTML
-•	CSS
-•	Jupyter Notebook
+-	Python
+-	HTML
+-	CSS
+-	Jupyter Notebook
 
 ## Getting Started 
 To run this app, you will need to use Anaconda Prompt. If you don’t have Anaconda Navigator you need to download and install Anaconda 3. (Go to the Anaconda website (https://www.anaconda.com/download) and download the latest version of Anaconda. Run the installer and follow the prompts to install Anaconda.) 
@@ -28,9 +28,12 @@ Clone or download the repository to your local machine. Open the Anaconda Prompt
 ![](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/d6a93856-8066-41de-9f79-40d69ceea9a7)
 
 ### Add new Player
- 
-### Individual Player Detail
+![](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/5b18b8b3-b2b6-4679-9557-b7dfba67a65d)
+
+### Individual Player Details
+![Picture1](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/56b60f55-00fd-4237-98ae-96bd04addc32)
 	 
 ### Edit Player Details
- 
+![Picture2](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/170ad370-ef85-4ef4-9a61-a2829ef71964)
 
+ 
