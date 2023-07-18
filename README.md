@@ -25,6 +25,7 @@ To run this app, you will need to use Anaconda Prompt. If you don’t have Anaco
 Clone or download the repository to your local machine. Open the Anaconda Prompt and run Python file (myapp.py).
 
 ### Home Page
+/assets/Screenshot 2023-07-17 124113.png
 
 ![](/assets/124505118/d6a93856-8066-41de-9f79-40d69ceea9a7)
 
