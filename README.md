@@ -25,15 +25,19 @@ To run this app, you will need to use Anaconda Prompt. If you don’t have Anaco
 Clone or download the repository to your local machine. Open the Anaconda Prompt and run Python file (myapp.py).
 
 ### Home Page
-![](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/d6a93856-8066-41de-9f79-40d69ceea9a7)
+
+![](/assets/124505118/d6a93856-8066-41de-9f79-40d69ceea9a7)
 
 ### Add new Player
+
 ![](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/5b18b8b3-b2b6-4679-9557-b7dfba67a65d)
 
 ### Individual Player Details
+
 ![Picture1](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/56b60f55-00fd-4237-98ae-96bd04addc32)
 	 
 ### Edit Player Details
+
 ![Picture2](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/170ad370-ef85-4ef4-9a61-a2829ef71964)
 
  
