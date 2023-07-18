@@ -22,7 +22,7 @@ This application includes following files.
 To run this app, you will need to use Anaconda Prompt. If you don’t have Anaconda Navigator you need to download and install Anaconda 3. (Go to the Anaconda website (https://www.anaconda.com/download) and download the latest version of Anaconda. Run the installer and follow the prompts to install Anaconda.) 
 
 ## Running the application
-Clone or download the repository to your local machine. Open the Anaconda Prompt and run Python file (myapp.py).
+Clone or download the repository to your local computer. Open the Anaconda Prompt and run Python file (myapp.py).
 
 ### Home Page
 ![Screenshot 2023-07-17 124113](https://github.com/dineshadmw/Simple-flask-application/assets/124505118/a98fc236-35b9-4bb2-ad9a-40f75a08a39a)
